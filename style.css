@@ -33,7 +33,6 @@ section {
   max-width: 300px;
   opacity: 0;
   pointer-events: none;
-  z-index: 5;
 }
 .tooltip-content .arrow {
   position: absolute;
@@ -50,7 +49,7 @@ section {
   left: 80%;
   height: 25px;
   width: 25px;
-  background-color: rgb(255, 255, 255);
+  background-color: aliceblue;
   cursor: pointer;
 }
 .pin:after {
@@ -60,7 +59,7 @@ section {
   left: 0;
   height: 100%;
   width: 100%;
-  background-color: rgb(255, 255, 255);
+  background-color: aliceblue;
   animation: puls-effect 1s ease infinite;
 }
 
@@ -97,7 +96,6 @@ section {
   width: 50%;
   padding: 10px;
 }
-
 
 .pin1 {
   position: absolute;
@@ -180,8 +178,8 @@ section {
 /* Custom style for tooltip-4 */
 
 .tooltip-4 .pin {
-  top: 63.8%;
-  left: 30%;
+  top: 82.8%;
+  left: 53.15%;
   height: 15px;
   width: 15px;
 }
@@ -208,8 +206,8 @@ section {
 /* Custom style for tooltip-5 */
 
 .tooltip-5 .pin {
-  top: 63.8%;
-  left: 30%;
+  top: 80%;
+  left: 32.8%;
   height: 15px;
   width: 15px;
 }
@@ -236,8 +234,8 @@ section {
 /* Custom style for tooltip-6 */
 
 .tooltip-6 .pin {
-  top: 63.8%;
-  left: 30%;
+  top: 78%;
+  left: 61.8%;
   height: 15px;
   width: 15px;
 }
@@ -264,8 +262,8 @@ section {
 /* Custom style for tooltip-7 */
 
 .tooltip-7 .pin {
-  top: 63.8%;
-  left: 30%;
+  top: 42%;
+  left: 68%;
   height: 15px;
   width: 15px;
 }
@@ -292,8 +290,8 @@ section {
 /* Custom style for tooltip-8 */
 
 .tooltip-8 .pin {
-  top: 63.8%;
-  left: 30%;
+  top: 82.5%;
+  left: 36.35%;
   height: 15px;
   width: 15px;
 }
@@ -320,8 +318,8 @@ section {
 /* Custom style for tooltip-9 */
 
 .tooltip-9 .pin {
-  top: 63.8%;
-  left: 30%;
+  top: 79%;
+  left: 59.9%;
   height: 15px;
   width: 15px;
 }
@@ -348,8 +346,8 @@ section {
 /* Custom style for tooltip-10 */
 
 .tooltip-10 .pin {
-  top: 63.8%;
-  left: 30%;
+  top: 88.8%;
+  left: 36.5%;
   height: 15px;
   width: 15px;
 }
@@ -376,8 +374,8 @@ section {
 /* Custom style for tooltip-11 */
 
 .tooltip-11 .pin {
-  top: 63.8%;
-  left: 30%;
+  top: 77.5%;
+  left: 39.5%;
   height: 15px;
   width: 15px;
 }
@@ -405,7 +403,7 @@ section {
 
 .tooltip-12 .pin {
   top: 63.8%;
-  left: 30%;
+  left: 46.25%;
   height: 15px;
   width: 15px;
 }
@@ -432,8 +430,8 @@ section {
 /* Custom style for tooltip-13 */
 
 .tooltip-13 .pin {
-  top: 63.8%;
-  left: 30%;
+  top: 74.5%;
+  left: 50.18%;
   height: 15px;
   width: 15px;
 }
@@ -460,8 +458,8 @@ section {
 /* Custom style for tooltip-14 */
 
 .tooltip-14 .pin {
-  top: 63.8%;
-  left: 30%;
+  top: 70%;
+  left: 59%;
   height: 15px;
   width: 15px;
 }
@@ -488,8 +486,8 @@ section {
 /* Custom style for tooltip-15 */
 
 .tooltip-15 .pin {
-  top: 63.8%;
-  left: 30%;
+  top: 80%;
+  left: 65.8%;
   height: 15px;
   width: 15px;
 }
@@ -516,8 +514,8 @@ section {
 /* Custom style for tooltip-16 */
 
 .tooltip-16 .pin {
-  top: 63.8%;
-  left: 30%;
+  top: 83%;
+  left: 67.5%;
   height: 15px;
   width: 15px;
 }
@@ -544,8 +542,8 @@ section {
 /* Custom style for tooltip-17 */
 
 .tooltip-17 .pin {
-  top: 63.8%;
-  left: 30%;
+  top: 53%;
+  left: 59.7%;
   height: 15px;
   width: 15px;
 }
@@ -572,8 +570,8 @@ section {
 /* Custom style for tooltip-18 */
 
 .tooltip-18 .pin {
-  top: 63.8%;
-  left: 30%;
+  top: 66.3%;
+  left: 60.3%;
   height: 15px;
   width: 15px;
 }
@@ -600,8 +598,8 @@ section {
 /* Custom style for tooltip-19 */
 
 .tooltip-19 .pin {
-  top: 63.8%;
-  left: 30%;
+  top: 82%;
+  left: 70%;
   height: 15px;
   width: 15px;
 }
@@ -628,8 +626,8 @@ section {
 /* Custom style for tooltip-20 */
 
 .tooltip-20 .pin {
-  top: 63.8%;
-  left: 30%;
+  top: 68.5%;
+  left: 64%;
   height: 15px;
   width: 15px;
 }
@@ -656,8 +654,8 @@ section {
 /* Custom style for tooltip-21 */
 
 .tooltip-21 .pin {
-  top: 63.8%;
-  left: 30%;
+  top: 82%;
+  left: 69.5%;
   height: 15px;
   width: 15px;
 }
@@ -684,8 +682,8 @@ section {
 /* Custom style for tooltip-22 */
 
 .tooltip-22 .pin {
-  top: 63.8%;
-  left: 30%;
+  top: 90.5%;
+  left: 67.2%;
   height: 15px;
   width: 15px;
 }
@@ -740,8 +738,8 @@ section {
 /* Custom style for tooltip-24 */
 
 .tooltip-24 .pin {
-  top: 63.8%;
-  left: 30%;
+  top: 57%;
+  left: 33%;
   height: 15px;
   width: 15px;
 }
@@ -768,8 +766,8 @@ section {
 /* Custom style for tooltip-25 */
 
 .tooltip-25 .pin {
-  top: 63.8%;
-  left: 30%;
+  top: 72.25%;
+  left: 41.5%;
   height: 15px;
   width: 15px;
 }
@@ -819,3 +817,269 @@ section {
     width: 100%;
   }
 }
+
+@media (max-width: 768px) {
+  .tooltip-2 .tooltip-content {
+    flex-direction: column;
+    max-width: 300px;
+  }
+  .tooltip-2 .tooltip-content .content,
+  .tooltip-2 .tooltip-content .img {
+    width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .tooltip-3 .tooltip-content {
+    flex-direction: column;
+    max-width: 300px;
+  }
+  .tooltip-3 .tooltip-content .content,
+  .tooltip-3 .tooltip-content .img {
+    width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .tooltip-4 .tooltip-content {
+    flex-direction: column;
+    max-width: 300px;
+  }
+  .tooltip-4 .tooltip-content .content,
+  .tooltip-4 .tooltip-content .img {
+    width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .tooltip-5 .tooltip-content {
+    flex-direction: column;
+    max-width: 300px;
+  }
+  .tooltip-5 .tooltip-content .content,
+  .tooltip-5 .tooltip-content .img {
+    width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .tooltip-6 .tooltip-content {
+    flex-direction: column;
+    max-width: 300px;
+  }
+  .tooltip-6 .tooltip-content .content,
+  .tooltip-6 .tooltip-content .img {
+    width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .tooltip-7 .tooltip-content {
+    flex-direction: column;
+    max-width: 300px;
+  }
+  .tooltip-7 .tooltip-content .content,
+  .tooltip-7 .tooltip-content .img {
+    width: 100%;
+  }
+}
+
+
+@media (max-width: 768px) {
+  .tooltip-8 .tooltip-content {
+    flex-direction: column;
+    max-width: 300px;
+  }
+  .tooltip-8 .tooltip-content .content,
+  .tooltip-8 .tooltip-content .img {
+    width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .tooltip-9 .tooltip-content {
+    flex-direction: column;
+    max-width: 300px;
+  }
+  .tooltip-9 .tooltip-content .content,
+  .tooltip-9 .tooltip-content .img {
+    width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .tooltip-10 .tooltip-content {
+    flex-direction: column;
+    max-width: 300px;
+  }
+  .tooltip-10 .tooltip-content .content,
+  .tooltip-10 .tooltip-content .img {
+    width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .tooltip-11 .tooltip-content {
+    flex-direction: column;
+    max-width: 300px;
+  }
+  .tooltip-11 .tooltip-content .content,
+  .tooltip-11 .tooltip-content .img {
+    width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .tooltip-12 .tooltip-content {
+    flex-direction: column;
+    max-width: 300px;
+  }
+  .tooltip-12 .tooltip-content .content,
+  .tooltip-12 .tooltip-content .img {
+    width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .tooltip-13 .tooltip-content {
+    flex-direction: column;
+    max-width: 300px;
+  }
+  .tooltip-13 .tooltip-content .content,
+  .tooltip-13 .tooltip-content .img {
+    width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .tooltip-14 .tooltip-content {
+    flex-direction: column;
+    max-width: 300px;
+  }
+  .tooltip-14 .tooltip-content .content,
+  .tooltip-14 .tooltip-content .img {
+    width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .tooltip-15 .tooltip-content {
+    flex-direction: column;
+    max-width: 300px;
+  }
+  .tooltip-15 .tooltip-content .content,
+  .tooltip-15 .tooltip-content .img {
+    width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .tooltip-16 .tooltip-content {
+    flex-direction: column;
+    max-width: 300px;
+  }
+  .tooltip-16 .tooltip-content .content,
+  .tooltip-16 .tooltip-content .img {
+    width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .tooltip-17 .tooltip-content {
+    flex-direction: column;
+    max-width: 300px;
+  }
+  .tooltip-17 .tooltip-content .content,
+  .tooltip-17 .tooltip-content .img {
+    width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .tooltip-18 .tooltip-content {
+    flex-direction: column;
+    max-width: 300px;
+  }
+  .tooltip-18 .tooltip-content .content,
+  .tooltip-18 .tooltip-content .img {
+    width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .tooltip-19 .tooltip-content {
+    flex-direction: column;
+    max-width: 300px;
+  }
+  .tooltip-19 .tooltip-content .content,
+  .tooltip-19 .tooltip-content .img {
+    width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .tooltip-20 .tooltip-content {
+    flex-direction: column;
+    max-width: 300px;
+  }
+  .tooltip-20 .tooltip-content .content,
+  .tooltip-20 .tooltip-content .img {
+    width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .tooltip-21 .tooltip-content {
+    flex-direction: column;
+    max-width: 300px;
+  }
+  .tooltip-21 .tooltip-content .content,
+  .tooltip-21 .tooltip-content .img {
+    width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .tooltip-22 .tooltip-content {
+    flex-direction: column;
+    max-width: 300px;
+  }
+  .tooltip-22 .tooltip-content .content,
+  .tooltip-22 .tooltip-content .img {
+    width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .tooltip-23 .tooltip-content {
+    flex-direction: column;
+    max-width: 300px;
+  }
+  .tooltip-23 .tooltip-content .content,
+  .tooltip-23 .tooltip-content .img {
+    width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .tooltip-24 .tooltip-content {
+    flex-direction: column;
+    max-width: 300px;
+  }
+  .tooltip-24 .tooltip-content .content,
+  .tooltip-24 .tooltip-content .img {
+    width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .tooltip-25 .tooltip-content {
+    flex-direction: column;
+    max-width: 300px;
+  }
+  .tooltip-25 .tooltip-content .content,
+  .tooltip-25 .tooltip-content .img {
+    width: 100%;
+  }
+}
+
