@@ -26,8 +26,8 @@ function contentPosition() {
       content.style.left = -container.offsetLeft + "px";
       content.style.top = pin.offsetTop + 30 + "px";
     } else {
-      content.style.left = pinLeft - content.offsetWidth / 2 + "px";
-      content.style.top = pin.offsetTop + 30 + "px";
+      content.style.left = pinLeft - content.offsetWidth / 2.15 + "px";
+      content.style.top = pin.offsetTop + -60 + "px";
     }
     arrow.style.left =
       pinLeft - content.offsetLeft + pin.offsetWidth / 2 + "px";
